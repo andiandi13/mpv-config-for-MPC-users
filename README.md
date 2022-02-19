@@ -19,7 +19,7 @@ Only some inputs are different.
 - Backspace : Play previous file
 - Enter : Play next file
 
-# Config
+## Config
 
 - Screenshots are named after filename+timecode in HH:MM:SS.ms and saved on Desktop
 - MPV open in windowed mode fitting screen height
