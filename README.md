@@ -22,7 +22,7 @@ Only some inputs are different.
 ## Config
 
 - Screenshots are named after filename+timecode in HH:MM:SS.ms and saved on Desktop
-- MPV open in windowed mode fitting screen height
+- MPV open in windowed mode fitting 85% of screen height
 - Video accurate duration (HH:MM:SS.ms)
 
 ## Scripts
