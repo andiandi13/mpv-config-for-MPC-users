@@ -3,6 +3,8 @@
 This settings will make mpv quite user friendly especially if you're coming from MPC.
 Only some inputs are different.
 
+On Windows, copy all files to "C:\Users\XXXXX\AppData\Roaming\mpv" (create the mpv folder if there is no one).
+
 ## Inputs
 
 - f / F11 : Fullscreen on/off
