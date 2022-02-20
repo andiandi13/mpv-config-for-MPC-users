@@ -10,8 +10,7 @@ Only some inputs are different.
 - Mouse wheel : volume
 - -/+ (Substract/Add) : audio delay
 - CTRL+-/+ : subtitles delay
-- Left mouse click : pause
-- Space bar : pause
+- Left mouse click / Space bar / p: pause
 - Left/right keys : seek video time
 - Up/Down keys : Volume
 - CTRL+Left/right : seek frame by frame
