@@ -25,7 +25,7 @@ Only some inputs are different.
 - a : change audio tracks
 - F6/F8 : Decrease/increase playback speed
 - F7 : restore playback speed
-
+- i : display/hide informations
 
 ## Config
 
