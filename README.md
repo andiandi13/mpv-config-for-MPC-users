@@ -15,7 +15,7 @@ Only some inputs are different.
 - Up/Down keys : Volume
 - CTRL+Left/right : seek frame by frame
 - Right mouse click : seek frame by frame
-- s : screenshot (PNG + subtitles)
+- s / F5 : screenshot (PNG + subtitles)
 - CTRL+s : screenshot (PNG + no subtitles)
 - HOME : restart playback
 - Backspace : Play previous file
