@@ -21,7 +21,7 @@ Only some inputs are different.
 - Backspace : Play previous file
 - Enter : Play next file
 - TAB : change subtitles tracks
-- A : change audio tracks
+- a : change audio tracks
 - F6/F8 : Decrease/increase playback speed
 - F7 : restore playback speed
 
