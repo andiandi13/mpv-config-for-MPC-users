@@ -5,7 +5,9 @@ Only some inputs are different.
 
 ## Inputs
 
+- f : Fullscreen on/off
 - Page Up / Page Down : seek chapters
+- Mouse wheel : volume
 - -/+ (Substract/Add) : audio delay
 - CTRL+-/+ : subtitles delay
 - Left mouse click : pause
@@ -15,9 +17,15 @@ Only some inputs are different.
 - CTRL+Left/right : seek frame by frame
 - Right mouse click : seek frame by frame
 - s : screenshot (PNG + subtitles)
+- CTRL+s : screenshot (PNG + no subtitles)
 - HOME : restart playback
 - Backspace : Play previous file
 - Enter : Play next file
+- TAB : change subtitles tracks
+- A : change audio tracks
+- F6/F8 : Decrease/increase playback speed
+- F7 : restore playback speed
+
 
 ## Config
 
