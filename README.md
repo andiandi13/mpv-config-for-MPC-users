@@ -9,7 +9,7 @@ On Windows, copy all files to "C:\Users\XXXXX\AppData\Roaming\mpv" (create the m
 
 - f / F11 : Fullscreen on/off
 - ESCAPE : escape fullscreen mode
-- Page Up / Page Down : seek chapters
+- Page Up / Page Down : previous/next chapters
 - Mouse wheel : volume
 - -/+ (Substract/Add) : audio delay
 - CTRL+-/+ : subtitles delay
