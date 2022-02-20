@@ -6,6 +6,7 @@ Only some inputs are different.
 ## Inputs
 
 - f / F11 : Fullscreen on/off
+- ESCAPE : escape fullscreen mode
 - Page Up / Page Down : seek chapters
 - Mouse wheel : volume
 - -/+ (Substract/Add) : audio delay
