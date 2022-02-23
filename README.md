@@ -8,6 +8,7 @@ On Windows, copy all files to "C:\Users\XXXXX\AppData\Roaming\mpv" (create the m
 ## Main inputs
 
 - f / F11 : Fullscreen on/off
+- Left mouse double click : Fullscreen on/off
 - ESCAPE : escape fullscreen mode
 - Page Up / Page Down : previous/next chapters
 - Mouse wheel : volume
