@@ -18,7 +18,8 @@ On Windows, copy all files to "C:\Users\XXXXX\AppData\Roaming\mpv" (create the m
 - Left/right keys : seek video time
 - Up/Down keys : Volume
 - CTRL+Left/right : seek frame by frame
-- Right mouse click : seek frame by frame
+- Right mouse click : seek to next frame
+- Mouse wheel click : seek to previous frame
 - s / F5 : screenshot (PNG + subtitles)
 - CTRL+s : screenshot (PNG + no subtitles)
 - HOME : restart playback
