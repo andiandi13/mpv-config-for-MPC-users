@@ -3,7 +3,7 @@
 This settings will make mpv quite user friendly especially if you're coming from MPC. A lot of key bindings are taken from MPC, but some others are custom because I find it more user-friendly.
 Only some inputs are different.
 
-On Windows, copy all files to "C:\Users\XXXXX\AppData\Roaming\mpv" (create the mpv folder if there is no one).
+On Windows, copy all files to "C:\Users\%USERNAME%\AppData\Roaming\mpv" (create the mpv folder if there is no one).
 
 ## Main inputs
 
