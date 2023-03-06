@@ -52,7 +52,7 @@ EXTENSIONS_AUDIO = Set {
 }
 
 EXTENSIONS_IMAGES = Set {
-    'jpg', 'jpeg', 'png', 'tif', 'tiff', 'gif', 'webp', 'svg', 'bmp'
+    ''
 }
 
 EXTENSIONS = Set {}
